@@ -11,7 +11,7 @@ Projeto prático de desenvolvimento de um app que permita um CRUD de tarefas com
 3. Inicie o PHPMYAdmin e execute o SQL em banco-de-dados.sql
 4. Pronto, o sistema já pode ser testado.
 
-## Você talvez se pergunte, por que uma pasta app_send_mail na raíz do Xampp?
+## Você talvez se pergunte, por que uma pasta app_lista_tarefas na raíz do Xampp?
 
 Bom, durante o desenvolvimento do projeto a ideia era de se aproximar um pouco mais do mundo real de programação. Para tal foram criadas duas pastas em localizações diferentes pois a ideia para elas era: 
 
