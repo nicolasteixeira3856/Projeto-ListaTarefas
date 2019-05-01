@@ -1,6 +1,6 @@
 # Projeto-ListaTarefas
 
-Projeto prático de desenvolvimento de um app que permita um CRUD de tarefas com HTML5, CSS(Bootstrap), JavaScript e PHP (PDO e Orientação a Objetos).
+Projeto prático de desenvolvimento de um app que permita um CRUD de tarefas com HTML5, CSS(Bootstrap), JavaScript, SQL e PHP (PDO e Orientação a Objetos).
 
 ## Como 'instalar' o sistema para testes em minha máquina?
 
