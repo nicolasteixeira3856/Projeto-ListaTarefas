@@ -1,4 +1,4 @@
-CREATE DATABASE IF NOT EXISTS php_com_pdo;
+CREATE DATABASE IF NOT EXISTS php_com_pdo DEFAULT CHARACTER SET utf8 COLLATE utf8_unicode_ci;
 
 create table tb_status(
 	id int not null primary key auto_increment,
